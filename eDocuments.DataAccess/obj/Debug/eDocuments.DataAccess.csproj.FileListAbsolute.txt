@@ -1,0 +1,1 @@
+c:\users\joe\documents\visual studio 2013\Projects\eDocuments\eDocuments.DataAccess\obj\Debug\eDocuments.DataAccess.csprojResolveAssemblyReference.cache

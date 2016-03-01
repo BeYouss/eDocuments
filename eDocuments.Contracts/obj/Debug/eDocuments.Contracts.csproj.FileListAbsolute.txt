@@ -1,0 +1,5 @@
+c:\users\joe\documents\visual studio 2013\Projects\eDocuments\eDocuments.Contracts\bin\Debug\eDocuments.Contracts.dll
+c:\users\joe\documents\visual studio 2013\Projects\eDocuments\eDocuments.Contracts\bin\Debug\eDocuments.Contracts.pdb
+c:\users\joe\documents\visual studio 2013\Projects\eDocuments\eDocuments.Contracts\obj\Debug\eDocuments.Contracts.csprojResolveAssemblyReference.cache
+c:\users\joe\documents\visual studio 2013\Projects\eDocuments\eDocuments.Contracts\obj\Debug\eDocuments.Contracts.dll
+c:\users\joe\documents\visual studio 2013\Projects\eDocuments\eDocuments.Contracts\obj\Debug\eDocuments.Contracts.pdb

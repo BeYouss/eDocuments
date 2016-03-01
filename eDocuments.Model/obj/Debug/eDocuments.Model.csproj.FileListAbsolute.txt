@@ -1,0 +1,5 @@
+c:\users\joe\documents\visual studio 2013\Projects\eDocuments\eDocuments.Model\bin\Debug\eDocuments.Model.dll
+c:\users\joe\documents\visual studio 2013\Projects\eDocuments\eDocuments.Model\bin\Debug\eDocuments.Model.pdb
+c:\users\joe\documents\visual studio 2013\Projects\eDocuments\eDocuments.Model\obj\Debug\eDocuments.Model.csprojResolveAssemblyReference.cache
+c:\users\joe\documents\visual studio 2013\Projects\eDocuments\eDocuments.Model\obj\Debug\eDocuments.Model.dll
+c:\users\joe\documents\visual studio 2013\Projects\eDocuments\eDocuments.Model\obj\Debug\eDocuments.Model.pdb
